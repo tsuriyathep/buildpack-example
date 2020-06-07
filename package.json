@@ -1,20 +1,19 @@
 {
-  "name": "buildpack-example",
+  "name": "coolnodeapp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "node app ",
+  "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node app.js"
+},
   "repository": {
-    "type": "git",
-    "url": "git+https://tsuriyathep@github.com/tsuriyathep/buildpack-example.git"
-  },
-  "author": "",
-  "license": "ISC",
+  "type": "git",
+  "url": ""
+},
+  "author": "J Singh",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/tsuriyathep/buildpack-example/issues"
-  },
-  "homepage": "https://github.com/tsuriyathep/buildpack-example#readme"
+  "url": ""
+},
+  "homepage": ""
 }
